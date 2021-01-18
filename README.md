@@ -1,1 +1,1 @@
-# Practice exercises
+# Небольшие упражнения с codewars и не только
