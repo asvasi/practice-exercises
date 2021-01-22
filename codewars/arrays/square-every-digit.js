@@ -1,6 +1,6 @@
 
 
-function squareDigits(num){
+function squareDigits(num) {
   return +num
     .toString(10)
     .split('')
